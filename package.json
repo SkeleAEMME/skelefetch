@@ -1,0 +1,16 @@
+{
+  "name": "skelefetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node skelefetch.js"
+  },
+  "keywords": [],
+  "author": "SkeleAEMME",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "systeminformation": "^5.31.5"
+  }
+}
