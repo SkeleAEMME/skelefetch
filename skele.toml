@@ -1,4 +1,4 @@
 [package]
 name = "skelefetch"
-entry = "skelefetch.js"
+entry = "node skelefetch.js"
 setup = "npm install"
