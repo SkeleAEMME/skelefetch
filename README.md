@@ -30,3 +30,5 @@ Run it with Node.js:
 
 ```bash
 node .\skelefetch.js
+```
+It ain't working on Termux, idk why, if i find the error i'll fix it.
