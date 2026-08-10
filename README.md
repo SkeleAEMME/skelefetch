@@ -11,7 +11,7 @@ It displays essential system information in a clean and readable format directly
 
 Fully open-source and designed to be easily customizable.
 
-> Inspired by neofetch by Dylan Araps  
+> Inspired by neofetch 
 > https://github.com/dylanaraps/neofetch
 
 ## ⚙️ Features
